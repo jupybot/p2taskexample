@@ -1,0 +1,7 @@
+commands:
+  - p3example:
+    name: Python 3 Example
+    type: file
+    notebook_file: example_python3.ipynb
+    regexp: run python 3
+help_text: This command runs python 3 example
